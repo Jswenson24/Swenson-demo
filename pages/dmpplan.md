@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is a Data Management plan example for the DSCI350m Course for our demo repositories.
 
-[This is a link to my metadata application profile.](https://www.google.com)
+[This is a link to my metadata application profile.](/objects/Group1-MAP.pdf)
 
 1. banana
 2. apples
